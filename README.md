@@ -38,5 +38,5 @@ Esta practica es para crear repo
 
 1. Do another step.
 
-![messi]()
+![messi](https://github.com/Gadgaion/pracica7mayo/blob/main/messi-world-cup.jpg)
 
